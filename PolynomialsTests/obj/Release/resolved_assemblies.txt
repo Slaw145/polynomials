@@ -1,0 +1,10 @@
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\PolynomialsTests.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\Java.Interop.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\Mono.Android.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\mscorlib.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\System.Core.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\System.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\System.Xml.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\Xamarin.Android.NUnitLite.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\Mono.Security.dll

@@ -1,0 +1,14 @@
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\bin\Release\PolynomialsTests.dll
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\bin\Release\PolynomialsTests.pdb
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\bin\Release\PolynomialsTests.PolynomialsTests.apk
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\bin\Release\PolynomialsTests.PolynomialsTests-Signed.apk
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\PolynomialsTests.csprojResolveAssemblyReference.cache
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\PolynomialsTests.dll
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\PolynomialsTests.pdb
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\bin\PolynomialsTests.PolynomialsTests.apk
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\res\drawable\icon.png
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\res\values\strings.xml
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\R.cs.flag
+C:\Users\slaw\Documents\Visual Studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\uploadflags.txt
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\bin\Release\PolynomialsTests.dll.mdb
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\PolynomialsTests\obj\Release\android\assets\PolynomialsTests.dll.mdb

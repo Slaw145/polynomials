@@ -1,0 +1,17 @@
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\bin\Release\Polynomials.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\bin\Release\Polynomials.pdb
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\bin\Release\com.SlawomirK.Polynomials.apk
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\bin\Release\com.SlawomirK.Polynomials-Signed.apk
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\Polynomials.dll
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\Polynomials.pdb
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\android\bin\com.SlawomirK.Polynomials.apk
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\res\drawable\ikonka.png
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\res\layout\main.xml
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\res\values\strings.xml
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\res\drawable\icon.jpg
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\R.cs.flag
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\uploadflags.txt
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\bin\Release\Polynomials.dll.mdb
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\android\assets\Polynomials.dll.mdb
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\Polynomials.csprojResolveAssemblyReference.cache
+C:\Users\slaw\documents\visual studio 2017\Projects\Polynomials\Polynomials\obj\Release\res\drawable\polynomial.jpg

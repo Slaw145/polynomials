@@ -1,0 +1,4 @@
+Polynomials.MainActivity, Polynomials;md5de888387805538bef7c09f2319af7599.MainActivity
+Polynomials.MainActivity, Polynomials, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de888387805538bef7c09f2319af7599.MainActivity
+Polynomials.MainActivity;md5de888387805538bef7c09f2319af7599.MainActivity
+polynomials.MainActivity;md5de888387805538bef7c09f2319af7599.MainActivity
